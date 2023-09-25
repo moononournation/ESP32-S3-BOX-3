@@ -151,7 +151,6 @@ public:
 
     if (_x == -1)
     {
-Serial.printf("_out_info->width: %d, _out_info->height: %d, _x: %d, _y: %d\n", _out_info->width, _out_info->height, _x, _y);
       int w = _out_info->width;
       int h = _out_info->height;
       _x = (w > _widthLimit) ? 0 : ((_widthLimit - w) / 2);

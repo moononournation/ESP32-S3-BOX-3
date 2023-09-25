@@ -1,15 +1,15 @@
 /*******************************************************************************
- * Motion JPEG Image Viewer
+ * Motion JPEG SIMD Decoder Image Viewer
  * 
-Arduino_GFX Motion JPEG Image Viewer example
+Arduino_GFX Motion JPEG SIMD Decoder Image Viewer example
 MJPEG start
 MJPEG end
 Total frames: 104
-Time used: 3071 ms
-Average FPS: 33.9
-Read MJPEG: 138 ms (4.5 %)
-Decode video: 2221 ms (72.3 %)
-Show video: 711 ms (23.2 %)
+Time used: 4113 ms
+Average FPS: 25.3
+Read MJPEG: 121 ms (2.9 %)
+Decode video: 1134 ms (27.6 %)
+Show video: 2857 ms (69.5 %)
  * 
  * This is a simple Motion JPEG image viewer example
  * Image Source: https://www.pexels.com/video/earth-rotating-video-856356/
